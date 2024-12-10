@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skywalker-atu
-- 👀 I’m interested in Technology & Football
-- 🌱 I’m currently learning Rust, C, JavaScript,etc
-- 💞️ I’m looking to collaborate on any (Web, Network, Security) application in Rust
+- 👀 I’m interested in CyberSecurity & Blockchain
+- 🌱 I’m currently learning Rust, C, DSA,etc
+- 💞️ I’m looking to collaborate on any (Web, Network, Security) application in Rust or Python
 - 📫 How to reach me alekentu@gmail.com (Phone No: 08136602086)
 - ⚡ Fun fact: ..."No idea if new they are just modified"
 
