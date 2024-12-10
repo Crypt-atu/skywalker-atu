@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skywalker-atu
+- 👋 Hi, I’m @Crypt-atu
 - 👀 I’m interested in CyberSecurity & Blockchain
 - 🌱 I’m currently learning Rust, C, DSA,etc
 - 💞️ I’m looking to collaborate on any (Web, Network, Security) application in Rust or Python
