@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crypt-atu
 - 👀 I’m interested in CyberSecurity & Blockchain
-- 🌱 I’m currently learning Rust, C, DSA,etc
-- 💞️ I’m looking to collaborate on any (Web, Network, Security) application in Rust or Python
+- 🌱 I’m currently doing my CyberSecurity Courseetc
+- 💞️ I’m looking to collaborate in building any hacking script or tool just for learning
 - 📫 How to reach me alekentu@gmail.com (Phone No: 08136602086)
 - ⚡ Fun fact: ..."No idea if new they are just modified"
 
